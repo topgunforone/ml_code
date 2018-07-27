@@ -1,0 +1,14 @@
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:29] INFO 处理数据....
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:29] INFO 处理数据....
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:48] INFO 迭代计算梯度,cycle ==0
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:48] INFO 迭代计算梯度,cycle ==1
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:48] INFO 迭代计算梯度,cycle ==2
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:48] INFO 迭代计算梯度,cycle ==3
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:48] INFO 迭代计算梯度,cycle ==4
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:48] INFO 迭代计算梯度,cycle ==5
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:48] INFO 迭代计算梯度,cycle ==6
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:48] INFO 迭代计算梯度,cycle ==7
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:48] INFO 迭代计算梯度,cycle ==8
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:48] INFO 迭代计算梯度,cycle ==9
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:67] INFO 预测结果中
+Fri, 27 Jul 2018 01:50:26 logistic_minist.py[line:73] INFO 进行度量
